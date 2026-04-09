@@ -1,0 +1,26 @@
+# Ignore les fichiers compilés
+*.o
+*.a
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dossiers de build
+build/
+dist/
+vendor/
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.vscode
+
+# Logs
+*.log
